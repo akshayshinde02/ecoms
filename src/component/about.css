@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container1{
+    background-image: url("backimg.jpg");
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text{
+   
+    margin-right: 300px;
+    margin-left: 600px;
+   
+}
+.t{
+    padding-top: 100px;
+    font-weight: bold;
+}
+
